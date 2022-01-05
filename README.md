@@ -14,3 +14,7 @@
 
 
 [![Raktim's GitHub stats](https://github-readme-stats.vercel.app/api?username=raktimraihan)](https://github.com/raktimraihan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raktimraihan)](https://github.com/raktimraihan/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raktimraihan)](https://github.com/raktimraihan/github-readme-stats)
