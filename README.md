@@ -10,3 +10,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am addicted to Harry Potter and Sheldon. 
 
+[![Raktim's GitHub stats](https://github-readme-stats.vercel.app/api?username=raktimraihan)](https://github.com/raktimraihan/github-readme-stats)
